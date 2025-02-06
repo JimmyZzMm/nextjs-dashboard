@@ -1,0 +1,6 @@
+.triangle {
+	border-style: solid;
+  border-color: transparent;
+  border-width: 50px 0 50px 50px;
+  border-left-color: skyblue;
+}
